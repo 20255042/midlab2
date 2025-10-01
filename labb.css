@@ -1,0 +1,26 @@
+ body{
+    background-color:#ff9aaf;
+    margin: 0;
+    padding: 20px;
+    color:black
+}
+
+.table{
+    background-color:#ffcfd7;
+    margin:0 auto;
+    font-family: Arial;
+}
+
+tr td {
+    padding: 20px;
+    font-size: 15pt;
+}
+
+th {
+    font-size: 30pt;
+}
+
+.heads {
+    font-size: 20pt;
+    font-weight: bold;
+}
